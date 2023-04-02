@@ -13,7 +13,7 @@ const wind = document.querySelector('.weather-details .wind span');
 
 // Define the API endpoint URL and the API key
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
-const API_KEY = '64f557f5d562aae11ed8211fc692bea5';
+const API_KEY = 'c09cff9b998190f1a0d25266ebebbde0';
 
 // Define a function to update the weather information in the DOM
 function updateWeatherInfo(weatherData) {
